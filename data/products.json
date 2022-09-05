@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ckrvsp1gwmjrm0c57o5tfsfnp",
+    "slug": "tshirt",
+    "name": "T-Shirt",
+    "image": "tshirt.png",
+    "price": 3500
+  },
+  {
+    "id": "ckrvsqbrkmugk0c59p9ied8fx",
+    "slug": "cap",
+    "name": "Cap",
+    "image": "cap.png",
+    "price": 2000
+  },
+  {
+    "id": "ckrvsrpx4md230b59f9cj1pvf",
+    "slug": "bag",
+    "name": "Bag",
+    "image": "bag.png",
+    "price": 1500
+  }
+]
